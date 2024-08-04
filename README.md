@@ -7,7 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysamrat&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysamrat" /> </p>
 
+- 🔭 I’m currently exploring on **.Net 8.0, C# 12.0 and React 18.0**
+
 - 🌱 I’m currently learning **React Js, .Net Core**
+
+- 👯 I’m looking to collaborate on **Full Stack Web Development**
+
+- 🤝 I’m looking for help with **Developer Role Job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanjaysamrat](https://github.com/Sanjaysamrat)
 
